@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\charactereScript.cs">
+    <Files>
+      <File FileName="Assets\script\charactereScript.cs" Line="23" Column="56" />
+      <File FileName="Assets\script\gameOverScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\camereScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\groundDestroyScript.cs" Line="13" Column="82" />
+      <File FileName="Assets\script\groundGeneratorScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\obsSpawnnerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\coinGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\backgroundScripti.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\platformGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\script\menuScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
